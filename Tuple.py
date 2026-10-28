@@ -8,7 +8,7 @@
 # t1 = (4,5,6,7,8,9,4,4,5,6,4)
 # print(t1[4])
 
-# t2 = 4,5,6, 7,8  #packing
+# t2 = 4,5,6, 7,8  #packing:tuple data ayittu annu store cheyunnath
 # print(type(t2))
 # a,b =(4,5)  #unpcking
 # print(a)
@@ -31,6 +31,7 @@
 # for index,name in enumerate(names):
 #     print(index,name)
 
-# enumerate=> function
+# enumerate=> function:listile index poisition asscces cheyan patum
 # sep
-
+# join:oro elements space separated ayittu annu display cheyunnath
+# 
