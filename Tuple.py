@@ -35,3 +35,18 @@
 # sep
 # join:oro elements space separated ayittu annu display cheyunnath
 # 
+#  from module_name import function,variables
+
+from Mathfun import add,PI
+from Mathfun import add,PI as p
+
+# print(add(2,3))
+# print(PI)
+
+# import mathfunctions
+# print(mathfunctions.add(45,68))
+# print(mathfunctions as mtf)
+# print(mtf.PI)
+
+# from mathfunctions import *
+# print(add(12,3))
